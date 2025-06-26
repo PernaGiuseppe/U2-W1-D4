@@ -36,7 +36,8 @@ article {
   margin: 25px;
   padding: 20px;
   box-sizing: border-box;
-  transition: all 2s linear 0.5s;
+  cursor: pointer;
+  transition: all 1s linear 0.5s;
 }
 
 article:nth-of-type(1) {
